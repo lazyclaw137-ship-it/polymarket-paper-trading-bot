@@ -1,0 +1,4 @@
+# Markets to watch (Polymarket US slugs)
+markets = ["tec-mlb-champ-2026-09-27-tb", "tec-mls-winner-2026-11-07-vwh", "tec-mls-winner-2026-11-07-nas"]
+poll_seconds = 10
+target_price = 0.30
